@@ -10,7 +10,11 @@ const {
 let mainWindow;
 
 app.on("ready", function () {
-    mainWindow = new BrowserWindow({})
+    mainWindow = new BrowserWindow({
+        width: 800,
+        height: 600,
+        icon: "assets/images/icon.png"
+    });
     mainWindow.loadURL(url.format({
         pathname: path.join(__dirname, "index.html"),
         protocol: "file:",
