@@ -4,3 +4,5 @@
  `npm install --save electron`
  
  `electron-packager ./ --platform=win32 --arch=x64 ALittleGame`
+ 
+ `node build_installer.js`
