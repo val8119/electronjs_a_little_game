@@ -1,2 +1,4 @@
-# electronjs_a_little_game
+# Electronjs: A Little Game
  Electron version of the "A Little Game" game
+ 
+ `npm install --save electron`
