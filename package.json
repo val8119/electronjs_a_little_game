@@ -1,0 +1,22 @@
+{
+  "name": "electronjs_a_little_game",
+  "version": "1.0.0",
+  "description": "Electron version of my girlfriend's first python game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/val8119/electronjs_a_little_game.git"
+  },
+  "author": "val8119",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/val8119/electronjs_a_little_game/issues"
+  },
+  "homepage": "https://github.com/val8119/electronjs_a_little_game#readme",
+  "dependencies": {
+    "electron": "^9.0.5"
+  }
+}
