@@ -18,5 +18,8 @@
   "homepage": "https://github.com/val8119/electronjs_a_little_game#readme",
   "dependencies": {
     "electron": "^9.0.5"
+  },
+  "devDependencies": {
+    "electron-wix-msi": "^2.2.0"
   }
 }
