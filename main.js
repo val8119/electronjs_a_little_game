@@ -16,4 +16,6 @@ app.on("ready", function () {
         protocol: "file:",
         slashes: true
     }));
+
+    mainWindow.setMenuBarVisibility(false)
 });
